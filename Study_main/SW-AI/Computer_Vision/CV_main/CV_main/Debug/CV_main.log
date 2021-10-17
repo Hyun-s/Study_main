@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\user\desktop\3_1\cv\cv_main\cv_main\main.cpp(222): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\3_1\cv\cv_main\cv_main\main.cpp(241): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\3_1\cv\cv_main\cv_main\main.cpp(260): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\3_1\cv\cv_main\cv_main\main.cpp(279): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\3_1\cv\cv_main\cv_main\main.cpp(298): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CV_main.vcxproj -> C:\Users\user\Desktop\3_1\CV\CV_main\Debug\CV_main.exe
